@@ -13,5 +13,5 @@ int main() {
   //use premade function
   c = sqrt(c);
   //output
-  cout<<c;
+  cout<<abs(c);
 }
